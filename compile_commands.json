@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/truff/.local/src/pong/builddir",
+    "command": "gcc -Ipong.p -I. -I.. -I/nix/store/mivm6y22x6dkbzbwjf0wgn8whx7y3znd-SDL2-2.28.3-dev/include -I/nix/store/mivm6y22x6dkbzbwjf0wgn8whx7y3znd-SDL2-2.28.3-dev/include/SDL2 -I/nix/store/n1icl3rnagdi2p4chl6xrxvclpilv4fs-SDL2_mixer-2.6.3-dev/include/SDL2 -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -D_REENTRANT -MD -MQ pong.p/src_Main.c.o -MF pong.p/src_Main.c.o.d -o pong.p/src_Main.c.o -c ../src/Main.c",
+    "file": "../src/Main.c",
+    "output": "pong.p/src_Main.c.o"
+  }
+]
